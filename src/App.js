@@ -1,7 +1,7 @@
 import './App.css';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Home from './components/Home/Home';
 import { Container } from 'react-bootstrap';
+import {SideBar} from './components/SideBar/SideBar'
 
 function App() {
 
