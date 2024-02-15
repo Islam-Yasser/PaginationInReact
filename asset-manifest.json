@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaginationInReact/static/css/main.b1d7ec7b.css",
+    "main.js": "/PaginationInReact/static/js/main.32ba7e21.js",
+    "index.html": "/PaginationInReact/index.html",
+    "main.b1d7ec7b.css.map": "/PaginationInReact/static/css/main.b1d7ec7b.css.map",
+    "main.32ba7e21.js.map": "/PaginationInReact/static/js/main.32ba7e21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.32ba7e21.js"
+  ]
+}
